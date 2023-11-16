@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 Welcome! 
 - I'm Songhao Huang, I'm currently a master student at university of pennsylvania    
-- I'm interested in motion planning for UAV
+- I'm interested in motion planning for UAV    
 - my personal CV:  
 - personal website is still under construction...
