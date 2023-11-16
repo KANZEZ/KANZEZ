@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 Welcome! 
 - I'm Songhao Huang, I'm currently a master student at university of pennsylvania    
-- I'm interested in motion planning for UAV    
+- I'm interested in motion planning for UAV，including topics of trajectory generation, optimization ...
 - [my personal CV](https://drive.google.com/file/d/1s1u8iOOKNwi8amx5TzO86PW442Qvyn13/view?usp=sharing)
 - personal website is still under construction...
